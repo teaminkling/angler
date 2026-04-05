@@ -41,11 +41,11 @@ attributes are the same level, you can increase any attribute by one level.
 
 Attribute checks are made via a d20 roll with the attribute level acting as a modifier. This is always:
 
-- -5 for unskilled
+- -3 for unskilled
 - +0 for novice
 - +3 for competent
-- +5 for expert
-- +8 for savant
+- +6 for expert
+- +9 for savant
 
 Natural 20s always succeed. Natural 1s do _not_ always fail.
 
@@ -94,8 +94,7 @@ The default schools of magic in Angler are based on sources of magic:
 
 ## Skills
 
-Each of the three categories have "skills." Skills are things that can have skill checks. Modifiers are -5 for
-unskilled, +0 for novice, +3 for competent, +5 for expert, and +8 for savant.
+Each of the three categories have "skills."
 
 You begin with a third of the levels (not points) you invested in a category allowed to be invested in the category's
 skills rounded down. For example, if you had 16 points invested in Mental attributes (1 savant, 1 competent, and 2
@@ -120,8 +119,9 @@ enough for 6 savant skills with 2 points left over. All categories have 8 skills
 out the skills for all categories at level 20, let alone the fact that it takes 88 points to fully max out a single
 category, so a maxed out Mental character is not possible even in Power Fantasy point buy.
 
-Skills are far more likely to be asked for in a check than an attribute. If sub-skills are being used, they then become
-more likely to be rolled than their parent skill.
+A skill will always be what is actually checked unless the attribute makes more sense. As such, they are far more
+likely to be asked for in a check than an attribute. If sub-skills are being used, they then become more likely to be
+rolled than their parent skill.
 
 ### Mental Skills
 
@@ -161,7 +161,7 @@ more likely to be rolled than their parent skill.
 - Ranged (heavy and crossbows)
 - Riding: ability to ride a horse or other mounts well.
 - Stealth: ability to physically make less sound and have less presence.
-  - Sub-skills: lockpicking, pickpocketing.
+  - Sub-skills: lock-picking, pickpocketing.
 - Athletics: ability to perform specific feats of strength and endurance.
 - Acrobatics: ability to perform feats requiring acrobatic finesse.
 
