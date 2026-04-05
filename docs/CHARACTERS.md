@@ -97,9 +97,8 @@ to the sum of the levels in a category divided by 10, rounded up, then that numb
 for 16 points invested in Mental attributes, that's 13 levels. 13 / 10 rounded up is 2, so every level, you get another
 2 points to invest.
 
-This example means that at level 20, you will have 44 points invested in the skills. That's enough for 4 savant skills,
-or, if you want to be more balanced, that's enough for 3 savant skills, 1 expert skill, 1 competent skill, and 2 novice
-skills, for example.
+This example means that at level 20, that's 19 level ups for 38 points plus the initial 4 points. You will have 42
+points invested in the skills. That's enough for 3 savant skills, 1 expert skill, and 1 competent skill for example.
 
 A maxed out Mental character would have 25 levels. That means 3 points per level, so 68 total points at level 20. That's
 enough for 6 savant skills with 2 points left over. All categories have 8 skills, so it is never possible to max
