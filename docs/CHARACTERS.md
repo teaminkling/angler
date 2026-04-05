@@ -1,5 +1,20 @@
 # Characters
 
+## Status
+
+Status attributes have a maximum and change cleanly over time. They are:
+
+- Hit Points
+- Wounds
+- Fatigue
+- Carry-weight
+- Sanity
+
+Magic users also get Mana, which is a replenishing resource after every combat, unlike Fatigue, which can only be
+mitigated by resting, sleep, and some items.
+
+Magic use outside of combat uses Fatigue rather than Mana to represent that magic cannot be freely used with impunity.
+
 ## Attributes
 
 Characters have a level from level 1 to 20.
@@ -46,15 +61,15 @@ The GM is encouraged to treat these differently to other cases of success or fai
 - Retention: ability to retain and recall information.
 - Sensing: perception, attention to detail.
 - Creativity: artistry, innovation, engineering.
-- Common Sense: intuitive knowledge, resistance from insanity.
+- Common Sense: intuitive knowledge, practicality.
 
 ### Social
 
 - Charm: attractiveness, wit, charisma, magnetism, seduction.
 - Guile: social manipulation, hostile persuasion, intimidation, blackmail, lies, gossip, provocation.
 - Intuition: resisting lies, reading others defensively.
-- Empathy: compassion, emotional understanding, reading others connectively, non-hostile persuasion.
-- Resolve: bravery, force of will, leadership, oration, command, teaching.
+- Empathy: compassion, emotional understanding, reading others connectively, non-hostile persuasion, selflessness.
+- Resolve: bravery, force of will, leadership, oration, command, teaching, adaptability, reactions to surprises.
 
 ### Physical
 
@@ -179,3 +194,19 @@ To increase the level of a sub-skill, you have two options:
 
 Generally, we recommend the second option for all games that use sub-skills at all with option 1 only as a fallback
 simpler option.
+
+## Personality Sliders
+
+Personality sliders are almost entirely homebrew and do not have anything to do with sliders and so on. This information
+is likely hidden from the player and is only useful when _randomly generating characters_ or for people who already
+know they want something like this.
+
+Some aspects of personality _are_ actually represented by the attributes and skills, e.g., thinking vs feeling. A high
+Logic and low Empathy character is not physically able to be a Feeling character over a Thinking one, according to the
+rules set out here. Similarly, a high Empathy character is not allowed to be a selfish.
+
+- Introvert, ambivert, extrovert: energy, social approach, comfort zone.
+- Sadistic, even-handed, merciful: how a character treats enemies and those who they have power over.
+- Melancholic, even-tempered, sanguine: general attitude towards emotions.
+- Traditionalist, reformist, revolutionary: a character's general attitude towards systemic change and the status quo.
+- Misanthrope, careful, trusting: a character's general attitude towards people.
