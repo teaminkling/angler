@@ -210,3 +210,16 @@ rules set out here. Similarly, a high Empathy character is not allowed to be a s
 - Melancholic, even-tempered, sanguine: general attitude towards emotions.
 - Traditionalist, reformist, revolutionary: a character's general attitude towards systemic change and the status quo.
 - Misanthrope, careful, trusting: a character's general attitude towards people.
+- Corrupt, desensitised, uncorrupted: a character's participation in what they or those around them believe is immoral.
+
+### Spicy Tensions
+
+An introverted, merciful, sanguine, revolutionary, trusting, and corrupt character: a Captain of a pirate crew that is
+kind to their crew and is joyful about the seas. She resents the attitudes of the King's Navy and government and how
+they treat the common people. She is thoughtful and reserved, but a bit of a hedonist, made worse by, well, committing
+piracy, boarding and killing, and stealing.
+
+An extroverted, sadistic, melancholic, traditionalist, misanthropic, and uncorrupted character: a nobleman who despises
+those underneath him. He is a bully and a tyrant, loud about his power and wealth, with few true friends. However, he
+is truly loyal to his family and his King, and has a strong sense of justice and duty, which the rightfully convicted
+see through his cruelty.
