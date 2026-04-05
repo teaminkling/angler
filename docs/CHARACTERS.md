@@ -1,0 +1,175 @@
+# Characters
+
+## Attributes
+
+Characters have a level from level 1 to 20.
+
+Characters have fifteen core attributes separated into three categories: Mental, Social, and Physical, with an optional
+fourth category for magical/supernatural characters in settings where that is appropriate.
+
+There are five levels of each attribute, skill, and sub-skill: unskilled, novice, competent, expert, and savant.
+
+In the Point Buy system, players can spend points to increase their attributes depending on the setting of the game:
+
+- Low Fantasy: 20 points
+- High Fantasy: 30 points (recommended)
+- Epic Fantasy: 40 points
+- Power Fantasy: 50 points
+
+Each attribute starts at "unskilled." It costs 1 point to go from unskilled to novice, 2 from novice to competent, 3
+from competent to expert, and 5 from expert to savant. This means that it costs 11 points to go from unskilled to
+savant in one attribute.
+
+Whenever you need to point-buy where the points you don't spend don't carry over (such as in character creation), you
+can expend all of your remaining points to increase anything except your highest attribute by one level. If all of your
+attributes are the same level, you can increase any attribute by one level.
+
+Attribute checks are made via a d20 roll with the attribute level acting as a modifier. This is always:
+
+- -5 for unskilled
+- +0 for novice
+- +3 for competent
+- +5 for expert
+- +8 for savant
+
+Natural 20s always succeed. Natural 1s do _not_ always fail, however if they do fail, they are always considered a
+"critical failure" and if they succeed, they are always considered a "bare success" similar to if the exact DC is
+rolled. The GM is encouraged to treat these differently to other cases of success or failure.
+
+### Mental
+
+- Logic: pure mental power, reasoning, intellect.
+- Retention: ability to retain and recall information.
+- Sensing: perception, attention to detail.
+- Creativity: artistry, innovation, engineering.
+- Common Sense: intuitive knowledge, resistance from insanity.
+
+### Social
+
+- Charm: attractiveness, wit, charisma, magnetism, seduction.
+- Guile: social manipulation, hostile persuasion, intimidation, blackmail, lies, gossip, provocation.
+- Intuition: resisting lies, reading others defensively.
+- Empathy: compassion, emotional understanding, reading others connectively, non-hostile persuasion.
+- Resolve: bravery, force of will, leadership, oration, command, teaching.
+
+### Physical
+
+- Power: physical strength, carry-weight.
+- Precision: finesse, skills, hand-eye coordination.
+- Speed: movement speed, speed during combat.
+- Constitution: endurance, stamina, lung capacity, hit-points, pain tolerance.
+- Recovery: vitality, immunity, effectiveness of healing.
+
+### Arcane
+
+In a story with magic, Arcane is completely separate. The GM is encouraged to name five schools of magic that work with
+their game setting and (ideally) eight skills for each school of magic.
+
+The default schools of magic in Angler are based on sources of magic:
+
+- School of the Elements: elemental magic, e.g., fire, water, air, earth, etc.
+- School of the Psyche: mental magic, e.g., telekinesis, telepathy, illusions, etc.
+- School of the Celestial: space, void, and extra-planar magic, e.g., teleportation, summoning, etc.
+- School of the Blood: life magic, e.g., healing, necromancy, etc.
+- School of the Word: magic of history, language, runes, rules, and knowledge, e.g., divination, enchantment, etc.
+
+## Skills
+
+Each of the three categories have "skills." Skills are things that can have skill checks. Modifiers are -5 for
+unskilled, +0 for novice, +3 for competent, +5 for expert, and +8 for savant.
+
+You begin with a third of the levels (not points) you invested in a category allowed to be invested in the category's
+skills rounded down. For example, if you had 16 points invested in Mental attributes (1 savant, 1 competent, and 2
+novice) that actually means 5 levels for savant, 3 for competent, 2 for each of the two novice (4 total), and 1 for
+unskilled, adding to 13 levels. A third of 13 rounded down is 4, so you can invest 4 skill points in the Mental
+category at the start, enough to bring one skill to competent and one to novice.
+
+It is up to the player to decide how much it makes sense to invest in skills; e.g., it might be weird for a very
+logical and book-smart character to be able to investigate well with unskilled Sensing, but that's up for the player to
+role-play.
+
+On each level up, you can invest into skills to improve them. The number of points to increase per category are equal
+to the sum of the levels in a category divided by 10, rounded up, then that number multiplied by the level. For example,
+for 16 points invested in Mental attributes, that's 13 levels. 13 / 10 rounded up is 2, so every level, you get another
+2 points to invest.
+
+This example means that at level 20, you will have 44 points invested in the skills. That's enough for 4 savant skills,
+or, if you want to be more balanced, that's enough for 3 savant skills, 1 expert skill, 1 competent skill, and 2 novice
+skills, for example.
+
+A maxed out Mental character would have 25 levels. That means 3 points per level, so 68 total points at level 20. That's
+enough for 6 savant skills with 2 points left over. All categories have 8 skills, so it is never possible to max
+out the skills for all categories at level 20, let alone the fact that it takes 88 points to fully max out a single
+category, so a maxed out Mental character is not possible even in Power Fantasy point buy.
+
+### Mental Skills
+
+- Medicine: ability to treat diseases and wounds.
+  - Sub-skills: Surgery, Herbalism, First Aid, Pharmacy, and Psychology.
+- Crafting: ability to create things.
+  - Sub-skills: Tailoring, Fletching, Smithing, Cooking, Engineering, and Computing.
+- Navigation: ability to find one's way.
+  - Sub-skills: Land, Sea, Air, and Space.
+- Investigation: ability to use known pieces to point to a fact.
+- Tactics: ability to judge the enemy and the situation.
+- Commerce: appraisal of goods and understanding of the local and wider economy.
+- Lore: represents knowledge that is actually known (tied to Retention).
+  - Sub-skills: History, Arcana, Religion, Nature, and Geography.
+- Survival: experience and ability to survive in the wilds.
+  - Sub-skills: Fishing, Camping, Woodcutting, Sailing, Hunting, and Plants.
+
+### Social Skills
+
+- Barter: the actual application of commercial skill in the act of buying and selling.
+- Performance: musical, dance, disguise, or other kind of entertainment performance.
+- Lowborn (street wisdom): the wisdom and belonging of being with those on the streets.
+- Highborn (etiquette, politics): the wisdom and belonging of being with those with wealth and power.
+- Culture: tactile belonging to a specific culture.
+  - Sub-skills: specific cultures depending on the setting.
+- Animals: animal handling ability.
+- Institutions: belonging to specific institutions.
+  - Sub-skills: specific institutions depending on the setting, e.g., Faith, Military, Guilds, Naval, etc.
+- Language: ability to speak and understand languages.
+  - Sub-skills: specific languages depending on the setting.
+
+### Physical Skills
+
+- Melee (light and finesse)
+- Melee (heavy and two-handed)
+- Ranged (light and thrown)
+- Ranged (heavy and crossbows)
+- Riding: ability to ride a horse or other mounts well.
+- Stealth: ability to physically make less sound and have less presence.
+  - Sub-skills: lockpicking, pickpocketing.
+- Athletics: ability to perform specific feats of strength and endurance.
+- Acrobatics: ability to perform feats requiring acrobatic finesse.
+
+### Arcane Skills
+
+- Alchemy: ability to create potions, poisons, and other magical substances.
+- Enchantment: ability to enchant and inscribe items with magic.
+  - Sub-skills: weapons, armour, runes, cards.
+- Counter-spell: ability to detect and counter the spells of others.
+- Resistance: ability to resist the spells of others and maintain concentration under duress.
+- Meta-magic: ability to modify, understand, and create spells.
+- Familiars: dealing with magical creatures where Social/Animals would not work.
+- Ritual: ability to perform magical rituals and meditations.
+- Divination: ability to divine information through magical means.
+
+## Sub-skills
+
+Sub-skills are not recommended for tabletop campaigns, but are supported.
+
+A sub-skill is usually homebrew. A sub-skill can be anywhere from unskilled to the same level as the parent skill, but
+not higher. For example, if you have expert Medicine, you can have up to expert Herbalism, but not savant Surgery.
+
+To increase the level of a sub-skill, you have two options:
+
+1. Ask the GM if you can/hand-waved/arbitrary. This is recommended for all tabletop games, so you don't need to worry
+   about the mathematics. This can also work for any game that does not intend to change the numbers over time.
+2. Every two levels, you can bump one of your sub-skills up by one level. With this method, level 20 players can bump
+   10 times, and it takes 4 bumps to get to savant, which means at level 20 you can still only have two sub-skills at
+   savant. This is the recommended method for video games.
+
+Generally, we recommend the second option for all games that use sub-skills at all with option 1 only as a fallback
+simpler option.
