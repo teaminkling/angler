@@ -32,9 +32,13 @@ Attribute checks are made via a d20 roll with the attribute level acting as a mo
 - +5 for expert
 - +8 for savant
 
-Natural 20s always succeed. Natural 1s do _not_ always fail, however if they do fail, they are always considered a
-"critical failure" and if they succeed, they are always considered a "bare success" similar to if the exact DC is
-rolled. The GM is encouraged to treat these differently to other cases of success or failure.
+Natural 20s always succeed. Natural 1s do _not_ always fail.
+
+A critical success is one where the result is >= 10 above the target number, and vice versa for a critical failure. A
+bare success is when the result is exactly the target number, and a bare failure is when the result is exactly one
+below the target number. Everything else is a "normal" success or failure.
+
+The GM is encouraged to treat these differently to other cases of success or failure.
 
 ### Mental
 
@@ -101,6 +105,9 @@ A maxed out Mental character would have 25 levels. That means 3 points per level
 enough for 6 savant skills with 2 points left over. All categories have 8 skills, so it is never possible to max
 out the skills for all categories at level 20, let alone the fact that it takes 88 points to fully max out a single
 category, so a maxed out Mental character is not possible even in Power Fantasy point buy.
+
+Skills are far more likely to be asked for in a check than an attribute. If sub-skills are being used, they then become
+more likely to be rolled than their parent skill.
 
 ### Mental Skills
 
